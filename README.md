@@ -3,3 +3,4 @@ Neutron star equation-of-state inference using gravitational waves: leveraging G
 Project by: Sama Al-Shammari
 Supervisors: Dr.Vivien Raymond
              Mr.Rhys Green
+Intstitution: Cardiff University
